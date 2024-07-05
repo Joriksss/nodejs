@@ -1,0 +1,20 @@
+{
+  "name": "websoket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "server": "nodemon app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0",
+    "ws": "^8.17.0"
+  },
+  "optionalDependencies": {
+    "utf-8-validate": "^6.0.3"
+  }
+}

@@ -1,0 +1,13 @@
+.txt{
+    width: 80%;
+    text-align: center;
+}
+.txt p{
+    font-size: 25px;
+    font-weight: bold;
+}
+.discipt{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}

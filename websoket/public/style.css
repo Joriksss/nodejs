@@ -1,0 +1,18 @@
+
+.messages{
+    height: 400px;
+    overflow: scroll;
+    width: 100%;
+}
+
+.messageBox{
+    display: block;
+    width: 98%;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.send{
+    width: 99%;
+    height: 30px;
+}
